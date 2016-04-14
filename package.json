@@ -1,0 +1,26 @@
+{
+  "name": "budgie",
+  "version": "1.0.0",
+  "description": "A tool to help build a performance budget.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "perf",
+    "budget",
+    "perflint",
+    "performance",
+    "web"
+  ],
+  "author": "Matthew Harrison-Jones <matt+npm@matthojo.co.uk> (http://matthojo.co.uk/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perflint/budgie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/perflint/budgie/issues"
+  },
+  "homepage": "https://github.com/perflint/budgie#readme"
+}
