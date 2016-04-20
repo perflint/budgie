@@ -1,6 +1,6 @@
 {
   "name": "budgie",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A tool to help build a performance budget.",
   "bin": {
     "budgie": "./bin/budgie.js"
