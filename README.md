@@ -1,3 +1,6 @@
+[![NPM version](https://img.shields.io/npm/v/budgie.svg?style=flat)](https://www.npmjs.com/package/budgie)
+[![NPM dependencies](https://david-dm.org/perflint/budgie.svg)](https://david-dm.org/perflint/budgie)
+
 # Budgie
 A tool to help build a website's [PerfLint](https://github.com/perflint/perflint) performance budget.
 
